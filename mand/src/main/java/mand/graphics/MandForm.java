@@ -1,3 +1,5 @@
+package mand.graphics;
+
 import javax.swing.*;
 import java.awt.*;
 
